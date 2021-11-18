@@ -1,4 +1,4 @@
-# Portfólio da disciplina de Visualização Científica - 2021.2
+# Rafael Avilar - Portfólio Visualização Científica (2021.2)
 Disciplina ofertada pelo programa de **Mestrado e Doutorado em Ciência da Computação (MDCC)** na **Universidade Federal do Ceará**.
 
 *Autor*: Rafael Avilar.
