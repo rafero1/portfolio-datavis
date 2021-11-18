@@ -27,6 +27,7 @@ Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github
 ### Exercício 1
 <iframe width="100%" height="423" frameborder="0"
   src="https://observablehq.com/embed/@rafero1/vega-lite-api-exercicios?cells=exer1"></iframe>
+
 ### Exercício 2
 <iframe width="100%" height="423" frameborder="0"
   src="https://observablehq.com/embed/@rafero1/vega-lite-api-exercicios?cells=exer2"></iframe>
