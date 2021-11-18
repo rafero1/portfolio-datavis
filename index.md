@@ -1,3 +1,9 @@
+# Portfólio da disciplina de Visualização Científica - 2021.2
+Disciplina ofertada pelo programa de **Mestrado e Doutorado em Ciências da Computação (MDCC)** na **Universidade Federal do Ceará**.
+Autor: Rafael Avilar
+
+Aqui serão arquivados exercícios e trabalhos relevantes a disciplina.
+
 ## Aula do dia 03/11/2021
 
 [index01.html](basic/index01.html)<br>
@@ -14,3 +20,9 @@
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
+
+## Vega-Lite API - Exercícios
+
+<iframe width="100%" height="852" frameborder="0"
+  src="https://observablehq.com/embed/@rafero1/vega-lite-api-exercicios?cells=exer2%2Cexer1">
+</iframe>
